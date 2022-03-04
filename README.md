@@ -6,15 +6,17 @@
 
 Check out my portfolio website for more details about me and my projects : https://tambe.herokuapp.com/
 
-Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
+Domain: Natural Language Processing,Programmatic advertising, Data Science, Data Wrangling, Data Visualization,Exploratory Data Analysis, Data Warehousing and Game programming.
 
-Languages: Python, SQL, HTML, CSS, JavaScript.
+Languages: Python, C#, HTML, CSS, Java.
 
 Framework: Flask, Django, Bootstrap.
 
-Libraries & Tools: NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK.
+Libraries : NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK.
 
-Data Analysis: Exploratory Data Analysis.
+Databases:SQL,Elasticsearch,Redis,MongoDB,Firebase.
+
+Other:Unity,Android Studio.
 
 -----------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me :
