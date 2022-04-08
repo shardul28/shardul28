@@ -16,7 +16,7 @@ Libraries : NumPy, Pandas, Scikit-Learn, Matplotlib, Keras, NLTK.
 
 Databases:SQL,Elasticsearch,Redis,MongoDB,Firebase.
 
-Other:Unity,Android Studio.
+Other:Elasticsearch,Redis,Unity,Android Studio.
 
 -----------------------------------------------------------------------------------------------------------------
 - 📫 How to reach me :
