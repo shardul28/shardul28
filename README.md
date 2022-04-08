@@ -23,3 +23,8 @@ Other:Unity,Android Studio.
  Phone: +91 8779096439
  LinkedIn: shardul-tambe-300ab4223
  Email: tambeshardul@gmail.com / shdtambe28@gmail.com
+
+Other links:
+GITHUB  :                      https://github.com/shardul28
+STRAVA  :                      https://www.strava.com/athletes/shardul_tambe_cyclist
+SOCIAL  :                       https://www.instagram.com/shardul.tambe/
