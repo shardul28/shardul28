@@ -25,6 +25,7 @@ Other:Elasticsearch,Redis,Unity,Android Studio.
  Email: tambeshardul@gmail.com / shdtambe28@gmail.com
 
 Other links:
+KAGGLE  :                      https://www.kaggle.com/shardultambe
 GITHUB  :                      https://github.com/shardul28
 STRAVA  :                      https://www.strava.com/athletes/shardul_tambe_cyclist
 SOCIAL  :                       https://www.instagram.com/shardul.tambe/
