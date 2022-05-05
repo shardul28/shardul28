@@ -2,8 +2,6 @@
 
 - 🎓 I’m currently pursuing Master's in Computer Science (2020-2022)
 
-- 👊 I am Actively looking for opportunities in Data Science | Data Science & Business Analytics Intern.
-
 Check out my portfolio website for more details about me and my projects : https://tambe.herokuapp.com/
 
 Domain: Natural Language Processing,Programmatic advertising, Data Science, Data Wrangling, Data Visualization,Exploratory Data Analysis, Data Warehousing and Game programming.
